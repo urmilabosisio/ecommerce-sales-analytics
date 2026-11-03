@@ -57,6 +57,38 @@ revenue trends and profitability metrics.
 
 ![Power BI Dashboard](dashboard.png)
 
+## Key Business Insights
+
+The analysis of the synthetic e-commerce dataset highlights several business performance patterns:
+
+**1. Overall profitability**
+
+The business generated approximately €185K in net revenue and €58K in gross profit, corresponding to an overall gross margin of 31.5%.
+
+**2. Revenue evolution**
+
+Monthly revenue fluctuated throughout 2025, with a noticeable increase during the final months of the year. This suggests that investigating possible seasonal effects could be valuable.
+
+**3. Product category performance**
+
+Beauty & Care achieved the highest percentage gross margin (approximately 42.7%), while Fashion & Accessories generated one of the largest absolute gross profit contributions.
+
+**4. Sales channel performance**
+
+Organic traffic represented the largest revenue contribution, followed by Paid Social. These findings provide a starting point for evaluating channel performance and marketing effectiveness.
+
+**5. Returns analysis**
+
+Fashion & Accessories recorded the highest return rate among the analyzed categories, suggesting an opportunity to investigate potential causes and their impact on profitability.
+
+## Potential Business Recommendations
+
+- Investigate the factors driving higher revenues toward the end of the year.
+- Evaluate opportunities to expand high-margin product categories.
+- Examine return patterns in Fashion & Accessories.
+- Combine revenue data with marketing expenditure to assess channel efficiency and return on investment.
+
+*Note: This project uses synthetic data for educational and portfolio purposes. The findings illustrate analytical methods rather than actual company performance.*
 
 ## Author
 
