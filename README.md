@@ -49,6 +49,15 @@ The project is designed to investigate:
 - Document key numerical results and business insights.
 - Expand the analysis with statistical and predictive models.
 
+## Power BI Dashboard
+
+The dashboard provides an interactive overview
+of e-commerce sales performance, including
+revenue trends and profitability metrics.
+
+![Power BI Dashboard](dashboard.png)
+
+
 ## Author
 
 **Urmila Bosisio**
